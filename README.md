@@ -1,8 +1,10 @@
 "# bobble-sort-with-UI" 
 bofore a array
-![image](https://github.com/user-attachments/assets/04c1aedf-7dd4-4556-8377-c57dc36355c6)
+![image](https://github.com/user-attachments/assets/ca6c9649-e22e-45c4-961d-ee4a827b3a8e)
+
 
 after a array
-![image](https://github.com/user-attachments/assets/47c81f44-b42b-4c4c-94d0-7625aded683b)
+![image](https://github.com/user-attachments/assets/047336ef-47b4-4f23-a895-449ed869d4b3)
+
 
 this code using bobble sort alg ueing javascript
